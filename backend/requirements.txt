@@ -6,3 +6,4 @@ scikit-learn==1.7.2
 pandas>=2.0
 numpy>=1.26
 python-multipart
+footballdata-io
